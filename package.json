@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "mongodb-stitch": "^3.2.24",
     "mongodb-stitch-browser-sdk": "^4.4.1",
-    "mongoose": "^5.5.15",
+    "mongoose": "^5.7.5",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
